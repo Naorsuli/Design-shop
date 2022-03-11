@@ -61,7 +61,7 @@ body {
 .DivMainImg {
     margin: 0;
     padding: 0;
-    background-image: url(../img/image6.jpg);
+    background-image: url(img/image6.jpg);
     text-align: center;
     min-height: 530px;
     background-size: cover;
