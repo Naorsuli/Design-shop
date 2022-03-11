@@ -1,0 +1,2286 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin: auto;
+}
+
+.header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 31px;
+    margin-bottom: 20px;
+}
+
+.ulheader {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.liheader {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding: 0px 17px;
+}
+
+.aheader {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
+
+.aimgheader {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.imgbutton1 {
+    padding-right: 21px;
+}
+
+.DivMainImg {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/image6.jpg);
+    text-align: center;
+    min-height: 530px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.DivMainImgText {
+    padding-top: 57px;
+}
+
+.h2MainText {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    color: #000000;
+}
+
+.MainImgText1 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    color: #000000;
+    padding-top: 25px;
+}
+
+.container1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    margin-top: 36px;
+}
+
+.DivMain2TextButton {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Text1MainTextButton {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    color: #000000;
+}
+
+
+
+.a1MainButton {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: 0.5px solid #000000;
+    border-radius: 5px;
+    padding: 14px 23px;
+    box-sizing: border-box;
+    background-color: white;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+
+.DivMain2Img {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+
+.DivContent1Main2Img {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-right: 25px;
+}
+
+.DivContent1Main2ImgDesign {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-right: 25px;
+}
+
+.imgcontent1 {
+    width: 100%;
+    display: block;
+}
+
+.TextUnderImgContent {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #000000;
+    padding-top: 14px;
+}
+
+.container2 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+.Text2MainTextButton {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    color: #000000;
+}
+
+.a2MainButton {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 14px 23px;
+    box-sizing: border-box;
+    background-color: white;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+
+.a2MainButtonSpec {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 14px 23px;
+    box-sizing: border-box;
+    background-color: white;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+
+.DivMinImgHeart {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 14px;
+}
+
+.DivMinImgHeartSpec {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 14px;
+}
+
+.DivPriceText {
+    margin: 0;
+    padding: 0;
+    text-align: start;
+}
+
+.TextPrice1 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000000;
+    padding-top: 14px;
+}
+
+.TextPrice2 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+    padding-top: 10px;
+}
+
+.TextPrice3 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+    padding-top: 7px;
+}
+
+.sectionBackGreen {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #C6D8BA;
+}
+
+.sectionBackGreenCopy {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #C6D8BA;
+}
+
+
+.container3 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 127px;
+}
+
+.divTextUpSecBackGreen {
+    margin: 0;
+    padding: 0;
+    padding-top: 31px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.TextUpSecBackGreen {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+}
+
+.divTextUpSecBackGreenH {
+    margin: 0;
+    padding: 0;
+    padding-top: 31px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.TextUpSecBackGreenH {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+}
+
+.DivContentSecBackGreen {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 63px;
+    padding-bottom: 46px;
+}
+
+.Div1ContentSecBackGreen {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    flex-direction: column;
+}
+
+.Text1SBG {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    color: #000000;
+    padding-bottom: 32px;
+}
+
+.Text2SBG {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    padding-bottom: 10px;
+}
+
+.Text3SBG {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+.container4 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 111px;
+    margin-bottom: 157px;
+}
+
+.DivContentTextImg {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.DivLeftContentTextImg {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    text-align: center;
+}
+
+.DivImgScanQr {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.ImgScanQr {
+    margin: 0;
+    padding: 0;
+}
+
+.DivTextContentTextImg {
+    margin: 0;
+    padding: 0;
+}
+
+.Text1Sec4 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    padding-bottom: 10px;
+}
+
+.Text2Sec4 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000000;
+    line-height: 160%;
+    
+}
+
+.DivAContent {
+    margin: 0;
+    padding: 0;
+    margin-top: 42px;
+}
+
+.ButtonSec4 {
+    background: #C6D8BA;
+    border: none;
+    border-radius: 5px;
+    padding: 17px 56px;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+}
+
+.AButtonSec4 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.BackImgSec5 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    background-image: url(../img/image\ 7.jpg);
+    text-align: end;
+    background-repeat: no-repeat;
+}
+
+.Div1ContentSec5 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-right: 107px;
+}
+.Div1ContentSec5:last-child{
+    margin-right: 37px;
+}
+
+.MainDivContentSec5 {
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    margin-top: 41px;
+    padding-bottom: 192px;
+}
+
+.DivUpContentSec5 {
+    margin: 0;
+    padding: 0;
+    padding-right: 269px;
+    padding-top: 33px;
+}
+
+.Text1Sec5 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: #000000;
+}
+
+.container5 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 157px;
+    display: none;
+}
+
+.container5spec {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 157px;
+}
+
+.Text2Content {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    color: #000000;
+    padding-top: 18px;
+}
+
+.Text3UnderImg {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+    padding: 13px 0px;
+}
+
+.Text4UnderImg {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 160%;
+    color: #000000;
+}
+
+.DivContentSec6 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1203px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    display: "-webkit-box";
+}
+
+.Div1ItemContentSec6 {
+    margin: 0;
+    padding: 0;
+    width: 29.5%;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px 10px 10px 10px;
+    margin: 0px 30px;
+}
+
+.Div1ItemContentProduct {
+    margin: 0;
+    padding: 0;
+    width: 29.5%;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px 10px 10px 10px;
+    margin-right: 16px;
+}
+
+.ImgIn1Item {
+    width: 100%;
+    display: block;
+}
+
+.Text1Sec6 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    color: #000000;
+    padding: 12px 0px 0px 16px;
+}
+
+.Text2Sec6 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 150%;
+    color: #000000;
+    padding: 5px 0px 0px 16px;
+}
+
+.Text3Sec6 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 150%;
+    color: #000000;
+    padding: 5px 0px 0px 16px;
+}
+
+.ButtonSec6 {
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 17px 64px;
+    cursor: pointer;
+}
+
+.AButtonSec6 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.DivWithTextButtonSec6 {
+    
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+
+.DivButtonSec6 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 35px;
+    padding-bottom: 21px;
+}
+
+.DivButtonSec6Spec {
+    margin-top: 62px;
+}
+
+.DivTextUp1Sec6 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 73px;
+}
+
+.TextUp1Sec6 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.container6 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin: auto;
+    margin-top: 137px;
+    position: relative;
+}
+
+.containerProduct {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+}
+
+.DivContentSec7 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.DivMainContentSec7 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.container7 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1111px;
+    margin: auto;
+    margin-top: 137px;
+    margin-bottom: 157px;
+}
+
+.DivLeftImgMainContentSec7 {
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    margin-right: 100px;
+}
+
+.DivRightContentSec7 {
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    text-align: start;
+}
+
+.Div1RightContentSec7 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Text1UpSec7 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.TextInsideSec7 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: #000000;
+    padding: 10px 0px;
+}
+
+.ImgLeftSec7 {
+    width: 100%;
+    display: block;
+}
+
+.DivButtonSec7 {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.ButtonSec7 {
+    margin: 0;
+    padding: 0;
+    border: 0.5px solid #000000;
+    background: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 14px 52px;
+    cursor: pointer;
+}
+
+.AButtonSec7 {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.container8 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1111px;
+    margin: auto;
+}
+
+.DivImgSec8 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.ImgSec8 {
+    display: block;
+    padding: 2px;
+}
+
+.Fotter {
+    margin: 0;
+    padding: 0;
+    background-color: #C6D8BA;
+    min-height: 353px;
+    width: 100%;
+    margin-top: 120px;
+}
+
+.container9 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.Text1Sec9 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+.Span1Text1Sec9 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #C4C4C4;
+}
+
+.Span2Text1Sec9 {
+    padding: 0px 8px;
+}
+
+.Container10 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.DivUnderContainer {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+}
+
+.DivBackSec6 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 258px;
+    position: absolute;
+    background-color:  #F4F8F2;
+    z-index: -1;
+    right: 0;
+    bottom: 14%;
+}
+
+.DivContentSec10 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.DivInsideLeftContentSec10 {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+
+.DivInsideRightContentSec10 {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+
+.ImgSec10 {
+    display: block;
+    width: 100%;
+}
+
+.H2Sec10 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    color: #000000;
+}
+
+.Text1Sec10 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    padding-top: 15px;
+}
+
+.Text1Sec10Hide {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    padding-top: 15px;
+    display: none;
+}
+
+.Text2Sec10 {
+    margin: 0;
+    position: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    padding-top: 17px;
+    text-decoration: none;
+}
+
+.DivButtonsSec10 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 68px;
+    max-width: 1250px;
+}
+
+.ButtonSec10 {
+    margin: 0;
+    padding: 0;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background: white;
+    padding: 14px 58px;
+    cursor: pointer;
+}
+
+.AButtonSec10 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.VectorSec10 {
+    padding-left: 10px;
+}
+
+.DivContentUpSec11 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 42px;
+}
+
+.DivUnderSec11 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.DivContent1Main2ImgSec11 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.Div1TextSec1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 17px;
+}
+
+.Text1Sec11 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.Div1ContentUpSec11 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 90px;
+}
+
+.SupSec11 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    color: #000000;
+}
+
+.container12 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+.DivMain2Img2 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: flex-start;
+}
+
+.DivContent1Main2ImgSec12 {
+    padding: 0;
+    margin: 0;
+    text-align: start;
+    margin-right: 15px;
+} 
+
+.DivMain2TextButtonSec12 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    margin: auto;
+    align-items: start;
+    margin-top: 68px;
+    margin-bottom: 38px;
+}
+
+.Text1MainTextButtonSec12 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    color: #000000;
+}
+
+.containerHr {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-top: 68px;
+}
+
+.Hr {
+    border: 1px solid #C4C4C4;
+}
+
+.ulhideJs {
+    margin: 0;
+    padding: 0;
+}
+
+.lihideJs {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 160%;
+    letter-spacing: 0.5px;
+    color: #000000;
+}
+
+.JshideDiv {
+    display: none;
+}
+
+.Div1RightContentSec7.active > img {
+    content: url(../img/-.svg);
+}
+
+.DivUndercontainerSec13 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.container13 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-top: 94px;
+}
+
+.DivLeftContentSec13 {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    max-width: 530px;
+}
+
+.TextInsideSec13 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 160%;
+    color: #000000;
+    padding: 15px 0px;
+}
+
+.DivUnderLeftDivSec13 {
+    margin: 0;
+    padding: 0;
+    margin-top: 71px;
+}
+
+.HrSec13 {
+    margin: 0;
+    padding: 0;
+    border: 0.5px solid #B9B9B9;
+}
+
+.Text1Sec13 {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    padding-bottom: 18px;
+}
+
+.ImgSec13 {
+    display: block;
+    width: 100%;
+}
+
+.Img1Sec13 {
+    display: block;
+    width: 100%;
+}
+
+.container14 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 157px;
+}
+
+.container14copy {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 157px;
+}
+
+.container15 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    margin-top: 165px;
+}
+
+.ImgBackGreen {
+    display: block;
+    margin: auto;
+}
+
+
+
+.TextUpЗProduct {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.Text1Product {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 160%;
+    color: #000000;
+    padding: 15px 0px 0px 11px;
+}
+
+.Text2Product {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 160%;
+    color: #000000;
+    padding: 5px 0px 15px 11px;
+}
+
+.DivUnderContentUpSec11 {
+    margin: 0;
+    padding: 0;
+    display: block;
+    display: contents;
+    
+}
+
+.containerMobileOnly {
+    display: none;
+}
+
+.DivHidenButton {
+    display: none;
+}
+
+.ImgHiden {
+    display: none;
+}
+
+.Hiden_img {
+    display: none;
+}
+
+.container14copy {
+    display: none;
+}
+
+
+
+
+
+
+@media ( max-width: 1024px ) {
+    .container8 {
+        display: none;
+    }
+    
+    .header {
+        display: none;
+    }
+
+    .Sec1 {
+        margin: 0px 15px;
+    }
+
+    .Sec1 {
+        padding: 0px 15px;
+    }
+
+    .Sec2 {
+        margin: 0px 15px;
+    }
+
+    .DivLeftContentSec13 {
+        margin-right: 50px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media ( max-width: 768px) {
+
+    .H2Sec10 {
+        font-size: 35px;
+    }
+
+    .Text1Sec10 {
+        font-size: 15px;
+    }
+
+    .ImgSec4 {
+        width: 100%;
+        display: block;
+    }
+
+    .TextPrice1 {
+        font-size: 19px;
+    }
+
+    .TextPrice2 {
+        font-size: 13px;
+    }
+
+    .TextPrice3 {
+        font-size: 13px;
+    }
+
+    .TextUnderImgContent {
+        font-size: 17px;
+    }
+
+    .Text1Sec4 {
+        font-size: 21px;
+    }
+
+    .Text2Sec4 {
+        font-size: 15px;
+    }
+
+    .ButtonSec4 {
+        padding: 12px 40px;
+    }
+
+    .AButtonSec4 {
+        font-size: 19px;
+    }
+
+    .Text1SBG {
+        font-size: 50px;
+    }
+
+    .Text2SBG {
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: #000000;
+    }
+
+    .Text3SBG {
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 160%;
+    }
+
+    .DivContentSecBackGreen {
+        align-items: baseline;
+    }
+
+    .TextUpSecBackGreen {
+        font-size: 21px;
+    }
+
+    .Text1MainTextButton {
+        font-size: 25px;
+    }
+
+    .Text2MainTextButton {
+        font-size: 25px;
+    }
+
+    .a1MainButton {
+        font-size: 15px;
+    }
+
+    .a2MainButton {
+        font-size: 15px;
+    }
+
+    .a2MainButtonSpec {
+        font-size: 15px;
+    }
+
+    .DivUpContentSec5 {
+        padding-right: 192px;
+    }
+
+    .Text1Sec5 {
+        font-size: 40px;
+    }
+
+    .Div1ContentSec5 {
+        margin-right: 37px;
+    }
+
+    .MainDivContentSec5 {
+        align-items: baseline;
+    }
+
+    .Div1ContentSecBackGreen {
+        width: 25%;
+        display: block;
+        display: inline-flex;
+    }
+
+    .Text3UnderImg {
+        font-size: 15px;
+    }
+
+    .Text4UnderImg {
+        font-size: 11px;
+    }
+
+    .Text1Sec6 {
+        font-size: 15px;
+    }
+
+    .Text2Sec6 {
+        font-size: 11px;
+    }
+
+    .ButtonSec6 {
+        padding: 12px 50px;
+    }
+
+    .DivButtonSec6Spec {
+        margin-top: 35px;
+    }
+
+    .SecSpecial {
+        margin: 0px 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 414px) {
+
+    .container15 {
+        margin-top: 80px;
+    }
+
+    .TextUpЗProduct {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .DivUnderLeftDivSec13 {
+        margin-top: 36px;
+    }
+
+    .container5 {
+        display: block;
+    }
+
+    .container5spec {
+        display: none;
+    }
+
+    .Text1Sec13 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        padding-bottom: 23px;
+    }
+
+    .HrSec13 {
+        width: 100%;
+    }
+
+    .TextInsideSec13 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 160%;
+    }
+
+    .container14copy {
+        margin-top: 64px;
+        display: block;
+    }
+
+    .containerMobileOnly {
+        display: block;
+    }
+
+    .container12 {
+        margin-top: 29px;
+    }
+
+    .DivMain2Img2 {
+        margin-top: 15px;
+    }
+
+    .Text1MainTextButtonSec12 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .containerHr {
+        margin-top: 34px;
+    }
+
+    .Hr {
+        margin: 0;
+        border: 10px;
+    }
+
+    .DivContentUpSec11 {
+        margin-top: 0px;
+    }
+
+    .Text1Sec11 {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .DivMinImgHeartSpec {
+        justify-content: start;
+    }
+
+    .small_img {
+        padding-right: 10px;
+    }
+
+    .Img_Spec {
+        display: none;
+    }
+
+    .Hiden_img {
+        display: block;
+        display: flex;
+    }
+
+    .DivMinImgHeart {
+        display: none;
+    }
+
+    .Div_Heart {
+        display: none;
+    }
+
+    .ImgHiden {
+        display: block;
+    }
+
+    .Fotter {
+        margin-top: 80px;
+        height: 100%;
+        min-height: 106px;
+    }
+
+    .Text1UpSec7 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .Text3Sec6 {
+        display: none;
+    }
+
+    .Div1ItemContentSec6 {
+        margin-bottom: 18px;
+    }
+
+    .AButtonSec6 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .Text2Sec6 {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 150%;
+    }
+    
+    .ButtonSec6 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 15px;
+        margin-right: 20px;
+        padding: 12px 30px;
+    }
+
+    .DivHidenButton {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 15px;
+    }
+
+    .DivButtonSec6 { 
+        display:  none;
+    }
+
+    .Text1Sec6 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+    }
+
+
+    .DivBackSec6 {
+        background-color: #F2F2F2;
+        width: 100%;
+        height: 100%;
+        min-height: 340px;
+        position: absolute;
+        bottom: 0;
+        padding-top: 19px;
+    }
+
+    .Text3UnderImg {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        padding-top: 27px;
+        padding-bottom: 6px;
+    }
+
+    .Text4UnderImg {
+
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 160%;
+        letter-spacing: 0.5px;
+    }
+
+    .TextUpSecBackGreenH {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .DivMain2Img {
+        margin-top: 15px;
+    }
+
+    .DivAContent {
+        margin-top: 20px;
+    }
+
+    .Text2SBG {
+        padding-bottom: 17px;
+    }
+
+    .TextUpSecBackGreen {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .container2 {
+        margin-top: 68px;
+    }
+
+    .container1 {
+        margin-top: 40px;
+    }
+
+    .TextPrice2 {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 17px;
+        padding-top: 6px;
+    }
+
+    .TextPrice1 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 13px;
+    }
+    
+    .ButtonSec4 {
+        padding: 11px 21px;
+    }
+
+    .AButtonSec4 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 160%;
+    }
+
+    .DivTextContentTextImg {
+        max-width: 263px;
+        margin: auto;
+    }
+
+    .Text1Sec4 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 160%;
+    }
+
+    .Text2Sec4 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 160%;
+        
+    }
+
+    .Text1SBG {
+        font-family: "Montserrat";
+        font-weight: 300;
+        font-size: 60px;
+        line-height: 73px;
+    }
+
+    .DivMainImgText {
+        padding-top: 71px;
+    }
+
+    .a2MainButton {
+        font-size: 12px;
+        padding: 12px 24px;
+    }
+
+    .a2MainButtonSpec {
+        font-size: 12px;
+        padding: 12px 24px;
+    }
+
+    .DivContent1Main2Img {
+        text-align: start;
+    }
+
+    .DivContent1Main2ImgDesign {
+        margin: 0px 8px;
+    }
+
+    .Text2MainTextButton {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+
+    }
+
+    .a1MainButton {
+        font-size: 12px;
+        padding: 12px 24px;
+    }
+
+    .Text1MainTextButton {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+
+    }
+
+    .containerMobileOnly {
+        margin: 0;
+        padding: 0;
+        flex-direction: column;
+        text-align: center;
+        
+    }
+
+    .DivUpTextMobileOnly {
+        margin: 0;
+        padding: 0;
+    }
+
+    .Text1MobileOnly {
+        margin: 0;
+        padding: 0;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        color: #000000;
+        margin-top: 85px;
+        margin-bottom: 25px;
+    }
+
+    .ImgMobileOnly {
+        display: block;
+        width: 100%;
+        max-width: 210px;
+        margin: auto;
+    }
+
+    .Text2MobileOnly {
+        margin: 0;
+        padding: 0;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 22px;
+        color: #000000;
+        margin-top: 15px;
+    }
+
+    .Text3MobileOnly {
+        margin: 0;
+        padding: 0;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        color: #000000;
+        margin-top: 7px;
+    }
+
+    .ButtonMobileOnly {
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF;
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        border-radius: 5px;
+        padding: 12px 24px;
+        margin-top: 32px;
+    }
+
+    .AButtonMobileOnly {
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        color: #000000;
+        text-decoration: none;
+    }
+
+    .DivContent1Main2Img {
+        margin: 0px 8px;
+    }
+
+    .DivContent1Main2ImgDesign {
+        margin: 0px 8px;
+    }
+
+    .Text2Sec10 {
+        font-size: 16px;
+        padding-left: 29px;
+        padding-top: 14px;
+    }
+
+    .Text1Sec10Hide {
+        display: block;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 160%;
+        padding-left: 29px;
+        padding-top: 14px;
+    }
+
+    .Text1Sec10 {
+        display: none;
+    }
+
+    .H2Sec10 {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 28px;
+        line-height: 34px;
+        padding-left: 29px;
+        padding-top: 10px;
+    }
+
+    .Div1ContentUpSec11 {
+        margin-top: 15px;
+    }
+
+    .DivContent1Main2ImgDesign {
+        justify-content: space-between;
+        margin-top: 45px;
+    }
+
+    .DivUnderContentUpSec11 {
+        margin: 0;
+        display: block;
+        margin: auto;
+    }
+
+    .Div1ContentSecBackGreen {
+        width: 25%;
+        display: block;
+        display: inline-flex;
+    }
+
+    .DivLeftContentSec13 {
+        width: 100%;
+    }
+    
+    .Img1Sec13 {
+        display: none;
+    }
+
+    .AButtonSec10 {
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+        
+    }
+
+    .HrBoho {
+        transform: rotate(-90deg);
+        min-width: 39px;
+        color: #B2B2B2;
+    }
+
+    .DivButtonsSec10 {
+        width: 100%;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 2px 1px #EAE9E5;
+    }
+
+    .ButtonSec10 {
+        width: 50%;
+        border: none;
+        display: flex;
+        align-items: center;
+        padding: 15px 0px;
+        align-items: center;
+        display: block;
+        
+    }
+
+    
+
+    .Text2Sec10 {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 160%;
+        padding-top: 4px;
+    }
+
+    .SpanBoho {
+        display: none;
+    }
+
+    .SecSpecial {
+        margin: 0;
+    }
+
+    .container9 {
+        display: none;
+    }
+
+    .ImgSec10 {
+        display: none;
+    }
+
+    .DivInsideRightContentSec10 {
+        background-image: url(../img/Rectangle\ 333.jpg);
+        background-size: cover;
+        width: 100%;
+        min-height: 289px;
+    }
+
+    .DivInsideLeftContentSec10 {
+        width: 100%;
+    }
+
+    .DivContentSec10 {
+        flex-direction: column-reverse;
+    }
+
+    .ImgSec4 {
+        display: none;
+    }
+
+    .DivLeftContentTextImg {
+        width: 100%;
+        text-align: center;
+    }
+
+    .DivMainImg {
+        background-image: url(../img/Rectangle\ 33.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 319px;
+    }
+
+    .h2MainText {
+        font-size: 30px;
+        padding-left: 43px;
+        
+        max-width: 193px;
+        text-align: start;
+    }
+
+    .MainImgText1 {
+        font-size: 20px;
+    }
+
+    .spanText1 {
+        display: none;
+    }
+
+    .MainDivContentSec5 {
+        margin: 0;
+        flex-direction: column;
+        align-items: center;
+        display: block;
+    }
+
+    .BackImgSec5 {
+        background-size: cover;
+        background-image: url(../img/image\ 5.png);
+    }
+
+    .Text1Sec5 {
+        text-align: center;
+        font-size: 28px;
+    }
+
+    .DivUpContentSec5 {
+        margin: 0;
+        padding: 0;
+        padding-top: 28px;
+        padding-bottom: 11px;
+    }
+
+    .Div1ContentSec5  {
+        padding-top: 22px;
+        margin: 0;
+    }
+
+    .Div1ContentSec5:last-child{
+        margin-right: 0px;
+    }
+
+    .Text2Content {
+        padding: 0;
+        font-size: 14px;
+    }
+
+    .DivLeftImgMainContentSec7 {
+        display: none;
+    }
+
+    .DivRightContentSec7 {
+        width: 100%;
+    }
+
+    .DivRightContentSec7 {
+        padding-top: 25px;
+    }
+
+    .DivButtonSec7 {
+        display: none;
+    }
+
+    .TextInsideSec7 {
+        font-size: 16px;
+    }
+
+
+    .slick-prev {
+        left: 10%!important;
+        top: 30%!important;
+    }
+    
+    .slick-next {
+        right: 10%!important;
+        top: 30%!important;
+    }
+
+    .container3 {
+        margin-top: 68px;
+    }
+
+    .container4 {
+        margin-top: 21px;
+        margin-bottom: 72px;
+    }
+
+    .container5 {
+        margin-top: 68px;
+    }
+
+    .MainDivContentSec5 {
+        padding-bottom: 140px;
+    }
+
+    
+
+    .TextUp1Sec6 {
+        display: none;
+    }
+
+    .container6 {
+        margin: 0;
+    }
+
+    .DivTextUp1Sec6 {
+        margin-top: 44px;
+    }
+
+    .container7 {
+        margin-top: 86px;
+        margin-bottom: 0px;
+    }
+
+    .DivContentSecBackGreen {
+        margin-top: 0px;
+    }
+
+    .divTextUpSecBackGreen {
+        padding-top: 0px;
+        padding-bottom: 24px;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .sectionBackGreen1 {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        background-color: white;
+    }
+
+    .sectionBackGreenCopy {
+        display: none;
+    }
+
+    .DivLeftContentSec13 {
+        margin: 0;
+    }
+    
+}
